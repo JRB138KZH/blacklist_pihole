@@ -6,3 +6,6 @@
 0.0.0.0 raspberrypistore.nl
 0.0.0.0 pimoroni.com
 0.0.0.0 udentalpro.com
+0.0.0.0 ziggo.nl
+0.0.0.0 nti.nl
+0.0.0.0 hero-wars.com
