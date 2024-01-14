@@ -27,10 +27,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ziggo.nl
 0.0.0.0 nti.nl
 0.0.0.0 hero-wars.com
-0.0.0.0 green-chef.nl
-0.0.0.0 green-chef.com
+0.0.0.0 greenchef.nl
+0.0.0.0 hellofresh.nl
 0.0.0.0 vinted.nl
 0.0.0.0 evofenedex.nl
 0.0.0.0 ah.nl
 0.0.0.0 garmin.com
 0.0.0.0 wix.com
+0.0.0.0 hellofresh.nl
