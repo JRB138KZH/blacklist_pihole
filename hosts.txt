@@ -2,3 +2,6 @@
 # By Jeroen Bak
 0.0.0.0 g2a.com
 0.0.0.0 googleadservices.com
+0.0.0.0 netflix.com
+0.0.0.0 raspberrypistore.nl
+0.0.0.0 pimoroni.com
