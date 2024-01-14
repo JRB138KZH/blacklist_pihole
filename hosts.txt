@@ -5,3 +5,4 @@
 0.0.0.0 netflix.com
 0.0.0.0 raspberrypistore.nl
 0.0.0.0 pimoroni.com
+0.0.0.0 udentalpro.com
